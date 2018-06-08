@@ -1,0 +1,66 @@
+
+.header-effect {
+  margin-top: 2%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.center-image-wrapper {
+  align-self: center;
+	max-width: 600px;
+  max-height: 600px;
+}
+
+.column {
+	display: flex;
+	flex-direction: column;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 900;
+}
+
+.songs-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.songs-container h2 {
+  text-align: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.flex-centered {
+  align-self: center;
+}
+
+.main-row-with-margin {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.hidden {
+  display: none;
+}
+
+.fake-content {
+  margin-bottom: 150px;
+}
+
+.song-content:first-of-type {
+  margin-top: 0;
+}
+
+.song-content {
+  margin-top: 1em;
+}
+
+.footer {
+  margin-top: 5em;
+}
